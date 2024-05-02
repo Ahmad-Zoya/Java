@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Day3 {
+public class Day03 {
     public static void main(String argsp[]){
         // for(int counter=0; counter < 10; counter++)
         // {
