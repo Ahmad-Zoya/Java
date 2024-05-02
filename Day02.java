@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Day2 {
+public class Day02 {
     public static void main(String argsp[]){
         Scanner sc = new Scanner(System.in);
         // int age = sc.nextInt();
