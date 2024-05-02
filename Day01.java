@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Day1 {
+class Day01 {
     public static void main(String argsp[]) {
         //output
         // System.out.println("Hello World");
