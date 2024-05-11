@@ -1,4 +1,4 @@
-public class Day5 {
+public class Day05 {
     public static void main (String argsp[]){
         //butterfly pattern
         int n=5;
